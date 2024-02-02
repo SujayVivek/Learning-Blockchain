@@ -1,0 +1,12 @@
+Web1: The permissionless open sourced web with static content.
+Web2: The permissioned web, with dynamic content. Where companies run your agreements on their servers.
+Web3: The permissionless web, with dynamic content. Where decentralized censorship resistant networks run your agreement and
+code. It generally is accompanied by the idea
+of user owned ecosystems, where the protocols
+you interact with you also own a portion of,
+instead of solely being the product.
+
+A Smart Contract is...
+-Cannot be altered (immutable)
+-Automatically executes 
+-Everyone sees the terms of the agreement
