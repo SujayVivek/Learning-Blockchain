@@ -44,5 +44,3 @@ Connect your wallet to the faucet!
     Public Key: this is the key that is provided to the public. Now any person can come and verify if the transaction was successfull or not using this Public Key
 
     We can basically Sign a Transaction using a Private Key!
-
-    
