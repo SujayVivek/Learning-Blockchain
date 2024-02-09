@@ -39,6 +39,10 @@ Connect your wallet to the faucet!
     Block: A combinatino of nonce, previous hash, current hash etc...it can have many other fields also
     Blockchain- multiple Blocks together
     Nonce: the number used to get this hash. In Ethereum nonce also depicts the number of transactions from a given address!
-     
+
+    Private Key: its like a password that is generated for each transaction(Keep this a secret, only you can see if its your transaction happening)
+    Public Key: this is the key that is provided to the public. Now any person can come and verify if the transaction was successfull or not using this Public Key
+
+    We can basically Sign a Transaction using a Private Key!
 
     
