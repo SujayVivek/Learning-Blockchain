@@ -10,3 +10,19 @@ A Smart Contract is...
 -Cannot be altered (immutable)
 -Automatically executes 
 -Everyone sees the terms of the agreement
+
+Defi- Decentralized Finance
+Use MetaMask as a Wallet!
+
+- use Test networks mainnet so that we can use them without real money!
+- mainnets cost money and they are considered Live
+
+Latest Faucets link:- A crypto faucet is a website or application that awards registered users with small amounts of cryptocurrency in exchange for completing a simple task such as viewing an ad or participating in a short survey
+Connect your wallet to the faucet!
+ Link to faucet- https://faucets.chain.link/        //connect your wallet here!
+
+ Faucet can be used to give test Ethereum to our wallet for free!
+ "Faucets dont exist on real networks"
+
+ Q> For some reason I dont know why Rinkesby Etherscan isn't updating my test transaction!
+ 
