@@ -26,3 +26,19 @@ Connect your wallet to the faucet!
 
  Q> For some reason I dont know why Rinkesby Etherscan isn't updating my test transaction!
  
+ Transaction Fee and Gas:- Blockchain Runs on nodes, whenever you do a transaction on a node, a small amount of money gets paid to the node Operator.
+                            The money the node Operators gets paid is based on the concept of the amount of Gas used.
+                            GasPrice* Gas_Used= Transaction Fee
+    
+    How Block Chain Works?
+        :Hashing:  Normal how password hashing works...
+        :Block: Similar to Hashing, but just that it stores multiple answers and passwords and converts all of it into one single hashed array
+    
+    Hash Algorithm: A function that  computes data into  a unique hash
+    Mining: The process of finding the soln to the blockchain problem. Nodes get paid for maning a particular node.
+    Block: A combinatino of nonce, previous hash, current hash etc...it can have many other fields also
+    Blockchain- multiple Blocks together
+    Nonce: the number used to get this hash. In Ethereum nonce also depicts the number of transactions from a given address!
+     
+
+    
